@@ -8,13 +8,21 @@ parents: ['Get Started']
   Introduction
 </h1>
 
-# Gatsby Ant-Design Documentation Starter
+# Rahat Codes Arcade Docs
 
-Forked from https://github.com/cvluca/gatsby-starter-markdown.
+This is an Open Source Project aimed at helping those newer to web development a chance to work with others in developing a real project. We will be building an arcade site that will go through the following versions:
 
-This starter is boilerplate for (technical) documentation websites optionally accomponied by a blog (you can use it forever you want of course).
+V1. A simple site built with HTML, CSS, and JavaScript containing several small games that users can play.
+
+V2. We will refactor V1 into a React application, otherwise the same functionality of V1 will remain in place. 
+
+V3. We will build a backend for the React application (tech stack TBD). Features to be added: User Authentication, Saving and Displaying Scores or Win Counts. 
 
 # Getting started
+
+Make sure you are a member of the Slack Channel. You can join here:
+
+If you are having trouble joining slack you can contact Rahat on Twitter @rahatcodes or by email at rahat@rahatcodes.com
 
 ```
 npm install gatsby -g
