@@ -41,7 +41,7 @@ const IndexPage = () => {
           <Icon type="github" />
         </Button>
         <Button>
-          <Link to="/contributors">Contributors <Icon type="aliwangwang" /></Link>
+          <Link to="/contributors">Contributors <Icon type="smile" /></Link>
         </Button>
         <Button type="primary" >
           <Link to="/docs/get-started/introduction">Get Started</Link>
