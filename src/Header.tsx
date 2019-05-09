@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import { Link } from 'gatsby'
 import { Layout, Menu, Row, Icon, Col } from 'antd'
 
+
 interface Props {
   siteTitle: string
 }
@@ -25,7 +26,7 @@ export class Header extends Component<Props> {
             </a>
           </Menu.Item>
           <Menu.Item>
-            <a href="https://twitter.com/jannikbuschke" target="_blank">
+            <a href="https://twitter.com/rahatcodes" target="_blank">
               <Icon type="twitter" />
               Twitter
             </a>
