@@ -20,53 +20,36 @@ V3. We will build a backend for the React application (tech stack TBD). Features
 
 # Getting started
 
-Make sure you are a member of the Slack Channel. You can join here:
+Make sure you are a member of the Slack Channel. You can join here: <a href = "https://join.slack.com/t/rcarcade/shared_invite/enQtNjIwMTU5NzA1MTM5LTQ1OWMyNGIzMTg5YWExODRlZTQwNWYwYzc5NTJiYzNmZDZhNjFjODc5NjhkMGFiZTExZGYxZWE5Y2FiYTE3NjQ" target="_blank"> Arcade Slack </a>
 
 If you are having trouble joining slack you can contact Rahat on Twitter @rahatcodes or by email at rahat@rahatcodes.com
 
-```
-npm install gatsby -g
-gatsby new my-docs https://github.com/jannikbuschke/gatsby-antd-docs
-cd my-docs
-npm run start
-```
-
-Visit http://localhost:8000.
-
-Edit files in `/content/docs` and see live updates.
-
-# Features
-
-- [x] Ant Design
-- [x] Typescript
-- [x] Markdown
-- [x] MDX
-- [x] Syntax highlighting
-
-# Roadmap
-
-- [x] Add typescript
-- [x] Remove Redux
-- [x] General simplifications
-- [x] Add mdx
-- [x] Add syntax highlighting with prismjs
-- [x] Improve Header UI
-- [ ] Fix menu item links not showing active state
-- [ ] Blog feature / second content type
-- [ ] Improved typings
-- [ ] Improved responsiveness
-- [ ] Add Search
-
-# Hosting
-
-In order to host the site the **sites path** needs to be put into gatsby-config.js export object on to the property _pathPrefix_. Then run
+You can clone the repository by navigating into the folder of your choice and running the following commands in you terminal:
 
 ```
-npm run build
+git clone https://github.com/Rahat-ch/Arcade.git
+cd Arcade
+
 ```
 
-and copy the content of the public folder to the webspace.
+# Tips
 
-# License
+- If there is something confusing about what we're doing check the docs!
+- If its not explained in the docs ask in Slack.
+- Make sure you read through the contributing page if you want your work added to the site. 
+- It's best to work with one other person, this is meant to be an exercise in teamwork you don't have to do it alone!
+- This is a fun side project, if you have other things going on in life take care of those first!
 
-MIT
+# Code of Conduct
+
+- This code of conduct applies both to myself(Rahat) and every contributer on this page. 
+- We're here to learn about web development and work together on a fun side project. Any form of harrassment will not be tolerated whatsoever. 
+- We want to create a welcoming and inclusive environment. Always be respectful of others and show empathy towards other community members. 
+
+Harrasment includes but is not limited to the following:
+
+- Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, physical appearance, pregnancy status, political affiliation, marital status, age, race, national origin, ethnic origin , nationality, immigration status, language, releigion or lack therof , or other identity marker.
+- Unwelcome sexual attention.  
+- Stalking or unwanted following online or in the physical world.
+
+Just don't be a jerk, be friendly, and lets work on some code!
