@@ -18,7 +18,7 @@ export class Header extends Component<Props> {
           </Menu.Item>
           <Menu.Item>
             <a
-              href="https://github.com/jannikbuschke/gatsby-antd-docs"
+              href="https://github.com/Rahat-ch/Arcade"
               target="_blank"
             >
               <Icon type="github" />
